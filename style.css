@@ -1,0 +1,35 @@
+.container {
+  text-align: center;
+  padding-bottom: 50px;
+  background: #af9a1f;
+  border-radius: 10em 10px;
+  width: 100%;
+  display: absolute;
+  margin-top: 45%;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 10% 10% 15%;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  background-color: #03182e;
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #0062cc;
+}
